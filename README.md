@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-Peer2PeerNoteSharing
+# Peer2PeerNoteSharing
 
 ## Basic Details
 
